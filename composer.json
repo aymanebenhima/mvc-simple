@@ -1,0 +1,19 @@
+{
+    "name": "aymendev/mvc-php",
+    "description": "A short project to make mvc project using php8",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aymane Benhima",
+            "email": "aymanebenhima@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/",
+            "App\\": "app/",
+            "Database\\": "database/"
+        }
+    },
+    "require": {}
+}
