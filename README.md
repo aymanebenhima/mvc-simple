@@ -1,4 +1,6 @@
 ## Project Structure:
+
+```
 .
 |-- app
 | |-- config
@@ -30,6 +32,7 @@
 |-- .gitignore
 |-- .htaccess
 |-- composer.json
+```
 
 ## Explain important files
 ### Connection.php
